@@ -1,0 +1,60 @@
+@import "bourbon";
+
+html,body{
+
+	text-align:center;
+}
+
+.welcome
+{
+	background-color : #495464;
+	padding-top: 5%;
+	padding-bottom: 4%;
+	color : #ffff;
+}
+
+.wel_body
+{
+	padding-top: 1%;
+	font-size: 18px;
+}
+.transfer_to
+{
+	background-color: #e8e8e8;
+	padding-top: 5%;
+	padding-bottom: 11%;
+}
+
+span
+{
+	padding-right: 15px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+button
+{
+	padding-top: 3px;
+
+}
+
+.button
+{
+	text-decoration: none;
+	font-size: 24px;
+	font-weight: 600;
+	color: #495464;
+  border: 1px solid #495464;
+  border-radius: 5px;
+  padding-left: 2em;
+  padding-right: 2em;
+
+  box-shadow: 0 0 0 0 transparent;
+}
+
+.button:hover
+{
+	background-color: #495464;
+  	border: 1px solid  #e8e8e8;
+  	color:  #e8e8e8;
+}

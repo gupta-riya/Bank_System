@@ -1,0 +1,82 @@
+
+@import "compass/css3";
+
+body,h1,table{
+
+	text-align: center;
+}
+
+body
+{
+	background-color: #eedad1;
+
+}
+
+.header
+{
+	background-color: #7d0633;
+}
+
+
+.icon
+{
+	font-size: 42px; 
+	color: white;
+	float:left;
+	padding-left: 2rem;
+	padding-top: 2rem;
+}
+
+.fas
+{
+	color : white;
+}
+
+h1
+{
+	padding-top: 2%;
+	padding-bottom: 3%;
+	padding-right: 5%;
+	font-weight: bold;
+	margin-bottom: 0px; 
+	color: #fbdcc4;
+}
+
+
+.main
+{
+	padding-left: 22%;
+	padding-top: 4%;
+}
+table
+{
+	border-collapse: collapse;
+	text-align: left;
+	font-size: 16px;
+}
+
+
+tr
+{
+	border-width: 2px;
+	border-color: black;
+	font-size: 16px;
+	font-weight:500;
+	
+}
+
+th,td
+{
+	padding: 0.5rem 1rem;
+	font-size: 18px;
+}
+.table-head
+{
+	background-color: #7d0633;
+	color : #fbdcc4 ;
+}
+
+.body-row
+{
+	background-color: #f0ece3;
+}

@@ -1,0 +1,150 @@
+html,body
+{
+	text-align: center;
+	 max-width: 100%;
+    overflow-x: hidden;
+    position: relative;
+
+}
+.container
+{
+	margin : 0px 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	max-width: 100%;
+	height : 100%;
+	position: relative;
+}
+
+.navbar
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.navbar-custom
+ { 
+    background-color: #045762; 
+}
+
+.brand_icon
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left:4rem;
+	padding-right: 1rem;
+	color: #DEF2F1;
+
+}
+
+.brand_name
+{
+	color: #DEF2F1;
+	font-weight: bold;
+}
+.btn-outline-success,.btn
+{
+	color: #FFFF;
+	font-weight: bold;
+	border-color: #FFFF;
+}
+
+.right
+{
+	margin-right: 6rem;
+}
+
+.left-content
+{
+	background-image: url("bank.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+
+
+.left-content,.right-content
+{
+
+	padding : 0px 0px;
+	position: relative;
+}
+
+.right-content
+{
+	background-color: #16697a;
+}
+
+.left-text
+{
+	font-weight: bold;
+	padding-top: 10%;
+	padding-bottom: 48%;
+	padding-left: 37%;
+	padding-right: 3%;
+}
+
+.card-1
+{
+	padding-left: 12%;
+	padding-top: 3%;
+	position: relative;
+	float: left;
+	z-index : 0;
+}
+
+.card-2
+{
+	position: relative;
+	float: left;
+	padding-top: 3%;
+	padding-left: 6%;
+	z-index: 0;
+}
+
+.card-3
+{
+	padding-left: 31%;
+	padding-top: 38%;
+	position: absolute;
+	z-index: 1;
+}
+
+.card
+{
+	width : 200px;
+	height: 250px;
+	margin-right: 0px;
+}
+
+.card-img-top
+{
+	position: relative;
+	align-self: center;
+	width : 130px;
+	height : 130px;
+
+}
+
+.card-body
+{
+	position: relative;
+	padding : 0px 2px;
+	padding-bottom: 0px;
+	background-color: #fbf6f0;
+}
+
+
+.card-body p{
+	margin-bottom: 0rem;
+}
+
+.card-text-desc
+{
+	padding-top:0px;
+	text-align: center;
+}
+
+.footer
+{
+	background-color: black;
+}
